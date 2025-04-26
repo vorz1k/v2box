@@ -25,7 +25,7 @@ You can use these links with your **V2Box** or compatible **V2Ray client** to co
 
 - **Telegram Channel: supreme_vpns**
 ```
-https://raw.githubusercontent.com/vorz1k/v2box/main/supreme_vpns#39.txt
+https://raw.githubusercontent.com/vorz1k/v2box/main/supreme_vpns.txt
 ```
 
 - **Telegram Channel: supreme_vpns**
