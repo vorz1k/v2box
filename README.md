@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/vorz1k/v2box/main/supreme_vpns#42.txt
 
 - **Telegram Channel: GrandSerwers**
 ```
-https://raw.githubusercontent.com/vorz1k/v2box/main/GrandSerwers#1.txt
+https://raw.githubusercontent.com/vorz1k/v2box/main/GrandSerwers.txt
 ```
 
 ---
