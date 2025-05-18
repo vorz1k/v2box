@@ -18,7 +18,7 @@ Get **free, daily-updated VPN subscription links** for **V2Box**, **V2Ray**, **V
 
 ## 🔗 Subscription Links
 
-- [GrandServers.txt](https://raw.githubusercontent.com/vorz1k/v2box/main/v2box_GrandSerwers.txt)
+- [GrandServers.txt](https://raw.githubusercontent.com/vorz1k/v2box/main/GrandSerwers.txt)
 - [v2box_sub2.txt](https://raw.githubusercontent.com/vorz1k/v2box/main/v2box_sub2.txt)
 - [v2box_sub3.txt](https://raw.githubusercontent.com/vorz1k/v2box/main/v2box_sub3.txt)
 - [v2box_sub4.txt](https://raw.githubusercontent.com/vorz1k/v2box/main/v2box_sub4.txt)
