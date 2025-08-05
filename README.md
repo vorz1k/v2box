@@ -26,12 +26,13 @@ Get **free, daily-updated VPN subscription links** for **V2Box**, **V2Ray**, **V
 
 ---
 
-## 📬 Telegram Channel
+## 📬 Social
 
 Looking for even more configs and updates?
 
-👉 **Join us on Telegram**: [@supreme_vpns](https://t.me/supreme_vpns)  
-Get real-time updates, app suggestions, and support.
+👉 **Join my Telegram**:  [Telegram here](https://t.me/supreme_vpns)  
+👉 **Join my streaming**: [Stream here](https://kick.com/vorz)
+👉 **Love gambling? Take my greatings**: [Register and use code:vorz](https://stake.com/?c=9011279a6d&offer=vorz)
 
 ---
 
@@ -45,7 +46,7 @@ Get real-time updates, app suggestions, and support.
 
 ---
 
-## 🧠 Why Use This?
+##  Why Use This?
 
 - 🔐 Secure your data with encryption
 - 🚫 Bypass government or ISP firewalls
