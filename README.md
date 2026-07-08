@@ -95,6 +95,7 @@ Looking for even more configs, updates and server news?
 
 ![Last Update](https://img.shields.io/github/last-commit/vorz1k/v2box)
 ![Stars](https://img.shields.io/github/stars/vorz1k/v2box?style=social)
+![License](https://img.shields.io/github/license/vorz1k/v2box)
 
 ---
 
