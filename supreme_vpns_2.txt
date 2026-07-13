@@ -1,6 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.169.242:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%C2%B7%20Banqiao
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:2087?security=reality&encryption=none&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://b82d817a-431e-4c4b-93b7-a924256db74e@al1.vipsite2.top:8088?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=alman1.rendai.ir#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Tehran%20%231
-ss://YWVzLTI1Ni1nY206YTMzOEE5@aw-sg.vndmall.pro:8888#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-vless://6d41e0c5-c90f-4f38-aa46-072a3db0cd56@195.162.69.241:443?encryption=none&security=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.147.203:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%C2%B7%20New%20Taipei%20City%20%232
+vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20Iran%20%C2%B7%20Tehran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.158.182:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%20%C2%B7%20New%20Taipei%20City
+vless://e539c072-a9ff-4c5d-8366-80e5e9552699@TuN.temas-bor.iR:2087?type=tcp&encryption=none&headerType=http&security=none&host=play.google.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://9c9fe5fa-6984-467b-a933-4c147886b9b9@wng.legendcr.ir:440?security=reality&encryption=none&pbk=iLVvvJXzlbyq94w1V94GHzb_gwWyjKLRZNwbDgat2Fo&headerType=none&fp=chrome&spx=/XFhRZOQUKIVIXp3&type=tcp&sni=www.yahoo.com&sid=8cf90532de323c#%F0%9F%87%AB%F0%9F%87%B7%20France%20%C2%B7%20Paris%20%231
