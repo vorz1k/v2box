@@ -1,12 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.178.63:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%C2%B7%20S%C3%A3o%20Paulo%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.21.187:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%C2%B7%20S%C3%A3o%20Paulo%20%232
-vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@chatgpt-async-webps-prod-centralus-0.chatgpt.com:443?mode=auto&path=/Meh?di=443&security=tls&alpn=h2&encryption=none&insecure=0&host=GERMAN.sarzamiiinahang.ir&type=xhttp&allowInsecure=0&sni=GERMAN.sarzamiiinahang.ir#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%C2%B7%20Toronto
-vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp=chrome&host=sync.watchwave.link&path=/api/v1/rooms/63368e3dbb/sync&security=tls&sni=cdn.tracker.yandex.net&type=ws#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.120.123:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%C2%B7%20S%C3%A3o%20Paulo%20%233
-vless://4038f946-bd95-5505-a111-196c05d6d92f@92.42.96.240:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?headerType=none&encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-vless://89755337-8050-401c-86d1-c8c34fb88d89@46.8.158.22:443?security=reality&encryption=none&pbk=wdWQNp1lnaFZ3L_r9hRK5vpVgv9M7UBb5JZuYPcWDAE&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=e96bc8c85c3836#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-vless://8728958d-cd6a-443f-bf6d-d13f25dc073b@65.49.234.130:29898?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%C2%B7%20Vancouver
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#%F0%9F%87%A6%F0%9F%87%BF%20Azerbaijan
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@89.124.124.221:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=APXp2igsjxFmGkpb3L98I__FTySIY6saN6skP2y0ank&security=reality&sid=c6d439fd92614ab0&sni=19.07.yunus.guru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@125.224.219.227:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.133.70:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://b40482b0-c9f1-4b1d-977d-ec91ba7b2636@185.126.236.181:8080?encryption=none&type=tcp&headerType=http&host=www.icloud.com&path=/#%F0%9F%87%A6%F0%9F%87%B9%20Austria
+vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
