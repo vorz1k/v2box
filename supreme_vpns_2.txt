@@ -1,6 +1,2 @@
-vless://0dbacd35-9159-4648-89ac-c38b741567a8@164.37.111.117:2020?headerType=none&encryption=none&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@147.15.120.123:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%C2%B7%20S%C3%A3o%20Paulo%20%233
-vless://89755337-8050-401c-86d1-c8c34fb88d89@46.8.158.22:443?security=reality&encryption=none&pbk=wdWQNp1lnaFZ3L_r9hRK5vpVgv9M7UBb5JZuYPcWDAE&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.icloud.com&sid=e96bc8c85c3836#%F0%9F%87%B7%F0%9F%87%BA%20Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOWEwZDA5Mi02ZjBlLTQ3MDEtODFlZS00NTQ2NDNkNmQ1MDY@125.224.219.227:50099#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#%F0%9F%87%A6%F0%9F%87%BF%20Azerbaijan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.21.187:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%C2%B7%20S%C3%A3o%20Paulo%20%232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#%F0%9F%87%B5%F0%9F%87%B1%20Poland
+vless://b40482b0-c9f1-4b1d-977d-ec91ba7b2636@185.126.236.181:8080?encryption=none&type=tcp&headerType=http&host=www.icloud.com&path=/#%F0%9F%87%A6%F0%9F%87%B9%20Austria
