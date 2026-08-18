@@ -1,2 +1,4 @@
-vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.133.70:59319#%F0%9F%87%A7%F0%9F%87%B7%20Brazil
+ss://YWVzLTI1Ni1nY206UHJveHkyMDI0@23.252.104.131:54321#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Edison
+ss://YWVzLTEyOC1nY206c3lubGdtbQ@66.112.211.35:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%C2%B7%20Los%20Angeles
+ss://YWVzLTI1Ni1nY206QXlxWDhLeW55eVFMUmVPWm9yUVJRYnN2bWl3eEJRT2Y@64.83.33.45:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%C2%B7%20Tokyo
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.219.126:62145#%F0%9F%87%A8%F0%9F%87%B4%20Colombia
