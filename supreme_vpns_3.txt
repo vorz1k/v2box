@@ -1,3 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#%F0%9F%87%AF%F0%9F%87%B5%20Japan
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MHl6YVlYRUJidlFTSnVyTHdrQnlvM1lqcSsvd1ZadG8xT285VjR6M2krRT0@89.168.83.14:59924#%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6%20Canada
+vless://4db42a40-9de3-499f-ab5f-85073abb9a46@49.13.168.128:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%C2%B7%20Nuremberg
+vless://e6bed5c2-1bfa-4396-b750-84a05f57e399@194.163.162.15:35811?Telegram=Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server---Cfox_Server&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
+vless://4fb82973-a7f1-4fc2-9958-cb21f5162f06@94.228.214.87:8443?encryption=none&path=/assets/v2/pkg&fp=firefox&sid=e0&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&sni=s3.netavex.com&security=reality&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea
