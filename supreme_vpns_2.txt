@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@192.209.62.92:211#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVnZnUDBCejY5aHNFclBCdnFLYndR@p1tun3.greewebservices.ir:2070#%F0%9F%87%AE%F0%9F%87%B7%20Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Qi1YX091TXNHeFdqMEFoSjlhTWRwaHRfaFFmWWVOeg==@46.149.68.124:1088#%F0%9F%87%B7%F0%9F%87%BA%20Russia
+ss://YWVzLTEyOC1nY206MTY4MzU1MWVhZTRlZWFiYTVkYjgwN2VhMjZlYjEyMDQ@103.214.108.222:17524#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
+vless://228ecfd3-9bf0-42fd-a50e-581f84022513@185.244.48.183:8443?security=reality&encryption=none&pbk=XgdHElYEGdc0A5NTZP4uTya2Y4WTKnfFV4ormD7rLx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ozone.nl&sid=debb#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
